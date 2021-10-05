@@ -1,0 +1,12 @@
+img {
+    border-radius: 50%
+}
+#Lista { text-align: center; }
+ul { display: inline-block; text-align: left; }
+#Input { text-align: center;}
+#Color {background-color:cyan;
+    border-color:black;
+margin:auto;
+width: 50%;
+text-align: center;
+border-radius: 2%}
